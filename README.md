@@ -11,5 +11,5 @@
 - Backend: https://github.com/ombalapure7/bookmyseat/tree/master/server
 
 ## Deployment:
-- Frontend:
-- Backend:
+- Frontend: https://bookmyseats.netlify.app/
+- Backend: https://bookmyseats.herokuapp.com/
