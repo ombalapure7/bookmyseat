@@ -1,4 +1,4 @@
-# bookmyseat
+# BookMySeat
 
 ## Source code:
 - Frontend: https://github.com/ombalapure7/bookmyseat/tree/master/client
